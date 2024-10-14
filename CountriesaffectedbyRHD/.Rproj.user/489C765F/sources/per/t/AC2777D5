@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583162780395.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1719382475",
+    "id" : "AC2777D5",
+    "lastKnownWriteTime" : 1583163056,
+    "last_content_update" : 1583163056544,
+    "path" : "~/Desktop/Research/BIo Research/Computational/CountriesaffectedbyRHD/Test.R",
+    "project_path" : "Test.R",
+    "properties" : {
+        "cursorPosition" : "35,33",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
